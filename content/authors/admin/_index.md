@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Undergraduate
+role: Zhenyu Jiang
 
 # Organizations/Affiliations
 organizations:
-- name: Tsinghua University
+- name: ""
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
