@@ -26,9 +26,9 @@ interests:
 
 education:
   courses:
-  - course: BE in Electronic Engineering
+  - course: B.E. in Electronic Engineering
     institution: Tsinghua University
-    year: 2020
+    year: 2016~2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
