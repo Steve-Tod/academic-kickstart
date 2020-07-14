@@ -54,7 +54,7 @@ social:
   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "jiangzhe16@mails.tsinghua.edu.cn"
+email: "jiangzhe16@tsinghua.org.cn"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -63,4 +63,4 @@ email: "jiangzhe16@mails.tsinghua.edu.cn"
 # - Visitors
 ---
 
-Hi! I’m Zhenyu Jiang (江振宇), a senior undergraduate at Department of Electronic Engineering of Tsinghua University. I study computer vison, machine learning and computer graphics(mainly geometry data processing). In summer 2019, I had a great time working on learning deformation space as a intern at [Guibas lab](https://geometry.stanford.edu/), Stanford University, supervised by Professor [Leonidas Guibas](https://geometry.stanford.edu/member/guibas/index.html).
+Hi! I’m Zhenyu Jiang (江振宇). I just received my B.E. from Tsinghua University, working with Jiansheng Chen and Jiwen Lu. I will start my Ph.D. in Computer Science at University of Texas, Austin. I study computer vison, machine learning. In summer 2019, I had a great time working on learning deformation space as a intern at [Guibas lab](https://geometry.stanford.edu/), Stanford University, supervised by Professor Leonidas Guibas.
